@@ -1,4 +1,4 @@
-baseURL = "https://meghna-test.netlify.com"
+baseURL = "https://meghna-rstf.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
