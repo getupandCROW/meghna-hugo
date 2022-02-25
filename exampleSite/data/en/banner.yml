@@ -1,12 +1,17 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Experience the new reality
+  content: 'Red Suspenders Timber Frames has been designing and crafting fine timber
+    frame homes, barns, pavilions and other structures since 1983. Our award winning
+    team of crafts people is well versed in taking your ideas and desires, incorporating
+    them into a cohesive design, and bringing them to life in a finely crafted timber
+    frame structure. We bring the same high level of skill and dedication to all aspects
+    of the process.   '
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Services
+    link: "#services"
